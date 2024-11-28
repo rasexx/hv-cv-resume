@@ -24,18 +24,24 @@ La actividad fue evaluada con una calificación de **5/5**, destacando el cumpli
 
 ## Créditos
 
-- **Profesor:** Sabas Medina  
+- **Profesor:** Sabas Medina
+- **Estudiante:** Jose Ramon Garcia
 - **Institución:** Cedesarrollo Comfenalco  
-- **Año:** [Añadir año del proyecto]
+- **Año:** 2024
 
 ## Cómo Ver el Proyecto
 
-Puedes clonar este repositorio y abrir el archivo `index.html` en tu navegador para visualizar el diseño.
+Siguiendo el enlace https://rasexx.github.io/hv-cv-resume/ en tu navegador podras visualizar el proyecto.
 
-```bash
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
-```
+---
+## HV de Jose Ramon Garcia Del Risco
+
+Todos los derechos reservados. El contenido de este CV es solo para observación y no puede ser modificado, redistribuido o usado de ninguna manera sin mi permiso explícito.
+
+### Licencia
+
+**Todos los derechos reservados**. Este repositorio no tiene una licencia pública, lo que significa que el uso, modificación o distribución del contenido no está permitido.
+---
 
 # Resume / Curriculum Vitae - Hoja de Vida
 
@@ -63,15 +69,20 @@ This activity was graded with a score of **5/5**, highlighting the fulfillment o
 
 ## Credits
 
-- **Professor:** Sabas Medina  
+- **Professor:** Sabas Medina
+- **Student:** Jose Ramon Garcia
 - **Institution:** Cedesarrollo Comfenalco  
-- **Year:** [Add the project year]
+- **Year:** 2024
 
 ## How to View the Project
 
-You can clone this repository and open the `index.html` file in your browser to view the design.
+By following the link https://rasexx.github.io/hv-cv-resume/ in your browser, you will be able to view the project.
 
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+---
+## CV of Jose Ramon Garcia Del Risco
+All rights reserved. The content of this CV is for viewing only and cannot be modified, redistributed, or used in any way without my explicit permission.
+
+### License
+**All rights reserved**. This repository does not have a public license, which means that the use, modification, or distribution of the content is not permitted.
+---
 
